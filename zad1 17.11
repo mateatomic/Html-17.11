@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+	<title>vjezba</title>
+</head>
+</body>
+	<form>
+		<p>Ime
+		<input type="text" name="ime">
+		</p>
+		<p>Prezime
+		<input type="text"name="Prezime">
+		</p>
+		<p>E-mail
+		<input type="text"name="E-mail"></p>
+		<input type="button" value="Submit Query">
+	</form>
+</body>
+</html>

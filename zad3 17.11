@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+	<title>vjezba</title>
+</head>
+<body>
+	<form>
+		<h1>Testform</h1>
+		<p>Name</p>
+		<input type="text"=value="name">
+		<p>Gender</p>
+		<input type="radio"name="odaberi"value="Male">Male
+		<input type="radio"name="odaberi"value="Female">Female
+		<p>Meals</p>
+		<input type="checkbox"name="izaberi"value="breakfast">breakfast<br>
+		<br>
+		<input type="checkbox"name="izaberi"value="lunch">lunch<br>
+		<br>
+		<input type="checkbox"name="izaberi"value="dinner">dinner<br>
+		<p>Remark</p>
+		<textarea cols="50" rows="10"></textarea><br>
+		<input type="Submit" value="Submit Query">
+		<input type="Reset" value="Reset">
+	</form>
+</body>
+</html>
